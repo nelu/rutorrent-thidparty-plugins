@@ -1,4 +1,4 @@
-# Note that this project and plugins are deprecated. See https://github.com/nelu/rutorrent-filemanager
+# Note that this project and plugins are obsolete and are no longer maintained. See https://github.com/nelu/rutorrent-filemanager
 https://github.com/nelu/rutorrent-filemanager-media and https://github.com/nelu/rutorrent-filemanager-share
 ## rutorrent-thirdparty-plugins
 Plugins for ruTorrent web client, filemanager, fileshare, fileupload, mediastream
